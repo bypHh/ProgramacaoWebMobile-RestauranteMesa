@@ -1,0 +1,11 @@
+{
+  "name": "Restaurante Mesa",
+  "short_name": "Restaurante Mesa",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "description": "Sistema de Gestão de Restaurante e Cardápio Digital em Flutter.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}

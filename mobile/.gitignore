@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+*.iml
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/android/app/debug
+/android/app/profile
+/android/app/release
+/ios/Flutter/.last_build_id
+/macos/Flutter/ephemeral/
+/windows/flutter/ephemeral/
+/linux/flutter/ephemeral/
